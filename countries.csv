@@ -99,7 +99,7 @@ num_code,alpha_2_code,alpha_3_code,en_short_name,nationality
 336,VA,VAT,Vatican City State,Vatican
 340,HN,HND,Honduras,Honduran
 344,HK,HKG,Hong Kong,"Hong Kong, Hong Kongese"
-348,HU,HUN,Hungary,"Hungarian, Magyar"
+348,HU,HUN,Hungary,Hungarian
 352,IS,ISL,Iceland,Icelandic
 356,IN,IND,India,Indian
 360,ID,IDN,Indonesia,Indonesian
@@ -155,7 +155,7 @@ num_code,alpha_2_code,alpha_3_code,en_short_name,nationality
 516,NA,NAM,Namibia,Namibian
 520,NR,NRU,Nauru,Nauruan
 524,NP,NPL,Nepal,"Nepali, Nepalese"
-528,NL,NLD,Netherlands,"Dutch, Netherlandic"
+528,NL,NLD,Netherlands,Dutch
 540,NC,NCL,New Caledonia,New Caledonian
 554,NZ,NZL,New Zealand,New Zealander 	
 558,NI,NIC,Nicaragua,Nicaraguan
