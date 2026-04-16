@@ -9,7 +9,7 @@ num_code,alpha_2_code,alpha_3_code,en_short_name,nationality
 660,AI,AIA,Anguilla,Anguillan
 10,AQ,ATA,Antarctica,Antarctic
 28,AG,ATG,Antigua and Barbuda,Antiguan or Barbudan
-32,AR,ARG,Argentina,Argentinian 	
+32,AR,ARG,Argentina,Argentine
 51,AM,ARM,Armenia,Armenian
 533,AW,ABW,Aruba,Aruban
 36,AU,AUS,Australia,Australian
@@ -82,6 +82,7 @@ num_code,alpha_2_code,alpha_3_code,en_short_name,nationality
 270,GM,GMB,Gambia,Gambian
 268,GE,GEO,Georgia,Georgian
 276,DE,DEU,Germany,German
+276,DE,DEU,Germany,"East German"
 288,GH,GHA,Ghana,Ghanaian
 292,GI,GIB,Gibraltar,Gibraltar
 300,GR,GRC,Greece,"Greek, Hellenic"
@@ -145,7 +146,7 @@ num_code,alpha_2_code,alpha_3_code,en_short_name,nationality
 484,MX,MEX,Mexico,Mexican
 583,FM,FSM,Micronesia (Federated States of),Micronesian
 498,MD,MDA,Moldova (Republic of),Moldovan
-492,MC,MCO,Monaco,"Monégasque, Monacan"
+492,MC,MCO,Monaco,Monegasque
 496,MN,MNG,Mongolia,Mongolian
 499,ME,MNE,Montenegro,Montenegrin
 500,MS,MSR,Montserrat,Montserratian
@@ -157,7 +158,7 @@ num_code,alpha_2_code,alpha_3_code,en_short_name,nationality
 524,NP,NPL,Nepal,"Nepali, Nepalese"
 528,NL,NLD,Netherlands,Dutch
 540,NC,NCL,New Caledonia,New Caledonian
-554,NZ,NZL,New Zealand,New Zealander 	
+554,NZ,NZL,New Zealand,New Zealander	
 558,NI,NIC,Nicaragua,Nicaraguan
 562,NE,NER,Niger,Nigerien
 566,NG,NGA,Nigeria,Nigerian
